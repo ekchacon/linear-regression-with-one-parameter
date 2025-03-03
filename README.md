@@ -15,4 +15,4 @@ This project comprises:
     </ul>
 </ul>
 
-<img width="558" alt="Screenshot 2025-03-03 at 5 03 38 pm" src="https://github.com/user-attachments/assets/acf62ec8-eb7b-44a6-9ab6-abcd7d0510e8" />
+<img width="597" alt="Screenshot 2025-03-03 at 5 51 54 pm" src="https://github.com/user-attachments/assets/0e16ee14-ba46-4938-b109-92c0472d1820" />
