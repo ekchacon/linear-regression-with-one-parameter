@@ -1,6 +1,6 @@
 <h1>Linear Regression with one parameter</h1>
 
-The objective of this Notebook is to show the most basic linear regression to understand how a model works.
+The objective of this Notebook is to show the most basic form of linear regression to illustrate how a model works, paving the way for understanding neural networks.
 
 This project comprises:
 
